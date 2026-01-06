@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b><u>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</u></b>
+    START_TXT = """<b><u>🚩 Hi I Am Anime Isekai Senpai Bot, you can search you favourite Anime Here🚩</u></b>
 
 <b>ʜᴇʏ {}, {}</b>
 
