@@ -7,7 +7,7 @@ class script(object):
 """
 
 
-    GSTART_TXT = """<b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</b>
+    GSTART_TXT = """<b>🚩 Hi I Am Anime Isekai Senpai Bot, you can search you favourite Anime Here🚩</b>
 
 <b>ʜᴇʏ {},</b>
 
